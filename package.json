@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazon.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.0.0",
+    "keys": "^0.1.2",
+    "mysql": "^2.17.1",
+    "pretty-error": "^2.1.1",
+    "table": "^5.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidchanho/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidchanho/bamazon/issues"
+  },
+  "homepage": "https://github.com/davidchanho/bamazon#readme"
+}
